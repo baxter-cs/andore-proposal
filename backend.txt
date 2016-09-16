@@ -1,0 +1,5 @@
+AndOre is a browser centric top down two dimensional MMO. Built to explore machine learning, AndOre requires a robust and dependable server architecture allowing synergistic application of AndOre’s team at large. Bringing the team's efforts to fruition requires internal efficient implementation and asynchronous communication between the project and the world at large.
+The team is responsible for developing the tools to analyze aggregated data so frontend can further evolve the user experience. The backend ultimately provides a brick-and-mortar foundation to further the game's development.
+
+
+
